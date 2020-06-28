@@ -8,15 +8,31 @@
 * 73I
 * 9P
 * 2P
+* 164I (XXX Infantry Corps)
+* 50I
+* Leibstandarte SS Adolf Hitler
+* 5P
+* 1st SS Motorized
+
+### Italy
+
+* 9th Army
 
 ### Greece
 
+* 13I
 * 19M
-* EMAS
-  * 6I
-  * 7M
-  * 14I (M?)
-  * 17I
+* 20I
+* C
+
+### Commonwealth
+
+* New Zealand
+  * 21st battalion
+  * 6th brigade
+
+* Australia
+  * 19th brigade
 
 ## Events
 
