@@ -29,7 +29,7 @@
 
 ### Armored
 
-* 131A (Centauro) - unsure
+* 131A (Centauro) - near the coast
 
 ### Elite
 
