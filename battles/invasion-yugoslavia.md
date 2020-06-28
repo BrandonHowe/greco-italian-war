@@ -36,4 +36,19 @@
 * 4/21 - The Germans advanced further and captured Ioannina, the final supply route of the Greek Epirus Army. 
 * 4/23 - The 19th Australian and 6th NZ brigades were decided to hold the Thermopalye passes as long as possible so all the other units could withdraw.
 * 4/24 - The Germans attacked, meeting fierce resistance.
+* 4/25 - The Germans staged an airborne operation to seize bridges over the Corinth Canal, with the double aim of cutting off the British line of retreat and securing their own way across the isthmus. It was met with success until a British shell destroyed the bridge. The 1st SS Motorized assembled at Ioannina, thrust along the western foothills of the Pindus Mountains via Arta to Missolonghi and crossed over the Peloponnese at Patras. 
 * 4/27 - After the Thermopylae area was abandoned, the British withdrew to a position south of Thebes, where they erected a last obstacle in front of Athens. The motorcycle battalion of the 2nd Panzer Division was given the mission of outflanking the British, and meeting little resistance, entered Athens.
+* 4/30 - The evacuation of nearly 50000 soldiers was completed.
+
+## Other details
+
+* The Greek campaign ended with a compelte German and Italian victory. The British could not carry out both a Balkan and African campaign. There were many other reasons why the Axis won, which include:
+* German superiority in ground forces and equipment
+* Most of the Greek troops were sent to fight in Albania.
+* The Germans had air superiority and the Greeks could not provide the RAF with adequate airfiends
+* The British expeditionary forces were weak
+* The Hellinic Army was in poor condition and had many shortages of modern equipment
+* Inadequate infrastructure (ports, roads, rails)
+* Lack of coordination between UK, Greece, and Yugoslavia
+* Turkey's strict neutrality
+* The early collapse of Yugoslavia.
